@@ -5,7 +5,7 @@ Application Development (React Native/Expo) Assignment
 Student ID - iAMDT2000
 Name - Kasun Hewage
 
-******************** About the two files (App.js and ToDoItems.js) ********************
+******************** About the three files in the project folder ********************
 
 01.     In the project folder there are three files named as App.js, ToDoItems.js and runOnMobile.png
 
