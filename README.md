@@ -7,7 +7,7 @@ Name - Kasun Hewage
 
 ******************** About the files in the project folder ********************
 
-01.     In the project folder there are three files named as App.js, ToDoItems.js
+01.     In the project folder there are two files named as App.js, ToDoItems.js
 
 02.     App.js is the main file wich contains the styles for the main interfce and it inclueds
         all the scripts that are necessary to run this project. 
