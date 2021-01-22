@@ -5,9 +5,9 @@ Application Development (React Native/Expo) Assignment
 Student ID - iAMDT2000
 Name - Kasun Hewage
 
-******************** About the three files in the project folder ********************
+******************** About the files in the project folder ********************
 
-01.     In the project folder there are three files named as App.js, ToDoItems.js and runOnMobile.png
+01.     In the project folder there are three files named as App.js, ToDoItems.js
 
 02.     App.js is the main file wich contains the styles for the main interfce and it inclueds
         all the scripts that are necessary to run this project. 
@@ -21,5 +21,3 @@ Name - Kasun Hewage
 05.     In case if the project doesn't work properly make sure to add the dependencies
         by clicking "add dependencies".
 
-06.     runOnMobile.png is a screenshot of how the app looks which I took by testing the app on
-        Expo mobile client.
